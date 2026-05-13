@@ -22,4 +22,4 @@ Add GUI version with graphics
 
 Save/load game state
 
-This project is open source and free to use but I would appriciate credits :D
+This project is open source and free to use but I would appriciate a mention
